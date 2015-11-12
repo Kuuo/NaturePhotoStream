@@ -56,6 +56,10 @@
 .pics li{
 	display: inline;
 	list-style: none;
+	transition: all, 1s, ease-in;
+	-webkit-transition: all, 1s, ease-in;
+	-moz-transition: all, 1s, ease-in;
+	-o-transition: all, 1s, ease-in;
 }
 .pics a{
 	background-color: #FFF;
